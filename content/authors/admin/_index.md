@@ -27,7 +27,7 @@ education:
   courses:
  
   - course: BA in Urban Planning
-    institution: Massachusetts Institute of Technology
+    institution: University of Nairobi
     year: 2021
     - course: High School Certificate
     institution: Kianyaga High School
